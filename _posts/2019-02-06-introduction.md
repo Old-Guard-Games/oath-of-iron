@@ -1,7 +1,7 @@
 ---
-layout: post
-published: true
 title: Introduction
+date: 2019-02-06 00:00:00 Z
+layout: post
 ---
 
 Welcome to From the Ashes, an Ironsworn blog.  Ironsworn is a Powered by the Apocalypse game created by Shawn Tomkin. It was designed from the ground up to be played in several different ways: Guided (with a GM), cooperatively (multiple players without a GM), or solo (single player, no GM). This blog will contain accounts of solo gameplay by yours truly.
