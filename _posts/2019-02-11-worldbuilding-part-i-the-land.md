@@ -1,10 +1,10 @@
 ---
-layout: post
-published: true
 title: Worldbuilding Part I - The Land
+date: 2019-02-11 00:00:00 Z
 categories:
-  - "Gameplay"
-  - "Ida"
+- Gameplay
+- Ida
+layout: post
 ---
 
 I think that it will be easier to get a good picture of who our protagonist will be if we first understand where she is coming from, in the literal sense.

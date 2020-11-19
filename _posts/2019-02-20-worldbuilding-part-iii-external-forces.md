@@ -1,10 +1,10 @@
 ---
-layout: post
-published: true
 title: Worldbuilding Part III - External Forces
+date: 2019-02-20 00:00:00 Z
 categories:
-  - "Gameplay"
-  - "Ida"
+- Gameplay
+- Ida
+layout: post
 ---
 
 In [Part I](/worldbuilding-part-i-the-land), we discussed what the land is like, and a bit of history.

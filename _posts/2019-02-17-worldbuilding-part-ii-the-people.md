@@ -1,10 +1,10 @@
 ---
-layout: post
-published: true
 title: Worldbuilding Part II - The People
+date: 2019-02-17 00:00:00 Z
 categories:
-  - "Gameplay"
-  - "Ida"
+- Gameplay
+- Ida
+layout: post
 ---
 
 Welcome to the second part of our worldbuilding series in which we are, as Bob Ross would put it, making some big decisions.
