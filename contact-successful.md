@@ -1,9 +1,8 @@
 ---
-layout: default
 title: Thank you!
 published: false
+layout: default
 ---
-
 
 ## THANK YOU!
 <div class = "success">

@@ -1,12 +1,14 @@
 ---
 title: Getting Started
-layout: post
-categories: [How-To, Markdown]
-image: /assets/img/airplane.jpg
-#gif: mygif
-description: "Let's get this theme to work!"
-customexcerpt: "Learn how to write a post in YAMT."
+date: 2020-05-20 00:00:00 Z
 published: false
+categories:
+- How-To
+- Markdown
+layout: post
+image: "/assets/img/airplane.jpg"
+description: Let's get this theme to work!
+customexcerpt: Learn how to write a post in YAMT.
 ---
 
 ### Front Matter
