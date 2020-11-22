@@ -2,13 +2,14 @@
 title: Worldbuilding Part III - External Forces
 date: 2019-02-20 00:00:00 Z
 categories:
-- Gameplay
 - Ida
+- Worldbuilding
 layout: post
+series: Ida
 ---
 
-In [Part I](/worldbuilding-part-i-the-land), we discussed what the land is like, and a bit of history.
-Then we learned some important things about our people in [Part II](worldbuilding-part-ii-the-people).
+In [Part I](worldbuilding-part-i-the-land.html), we discussed what the land is like, and a bit of history.
+Then we learned some important things about our people in [Part II](worldbuilding-part-ii-the-people.html).
 Definitely check those out if you missed them, because they will inform many decisions we make moving forward.
 
 In this, our final piece of worldbuilding, we will learn about other peoples and dangers with which our freshly conceived dwarven society will have to contend.

@@ -2,13 +2,14 @@
 title: Worldbuilding Part II - The People
 date: 2019-02-17 00:00:00 Z
 categories:
-- Gameplay
 - Ida
+- Worldbuilding
 layout: post
+series: Ida
 ---
 
 Welcome to the second part of our worldbuilding series in which we are, as Bob Ross would put it, making some big decisions.
-If you missed Part I, I recommend [checking it out](/worldbuilding-part-i-the-land/).
+If you missed Part I, I recommend [checking it out](worldbuilding-part-i-the-land.html).
 It might be confusing otherwise.
 
 Last time, we worked out the history of our setting and a bit of color here and there.
