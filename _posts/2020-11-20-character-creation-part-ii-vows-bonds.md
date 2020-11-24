@@ -94,10 +94,12 @@ Therefore, picking good vows to start is quite important!
 
 According to the book, Ida will start with two vows: A long-term goal (background vow), and something more immediately pressing (the inciting incident). 
 If you recall in [Part III of Worldbuilding]({{site.baseurl}}/worldbuilding-part-iii-external-forces), there was a quest starter about a famous slayer who had gone missing.
-Throughout character creation, I have imagined these slayers as more Warden than trophy/bounty hunters, so that's what we're going to go with.
+However, I think it would be interesting to jump into the world and figure out what the inciting incident is, rather than deciding ahead of time, so we'll hang onto this idea about the other warden.
 
+{:.hidden}
 > I will find out what happend to Warden Lucia Waldaugen and bring her home safely if she still lives.
 
+{:.hidden}
 Vows come in 5 ranks (in order of increasing difficulty): troublesome, dangerous, formidable, extreme, or epic.
 Given that Lucia is famous for being at the top of the field, I would say this vow is probably more than just a little dangerous, so we'll call it formidable.
 The real question here is whether this is the long-term goal or the immediate concern.
@@ -113,18 +115,22 @@ When you wake, the memory of its piercing gaze lingers.
 Is the vision a dark portent or a promise?
 Why are you compelled to seek this beast out?
 
-So what if the hound isn't actually a hound, but a grown snowy wolf cub Ida found in the forest?
+So what if her hound isn't actually a hound, but a wolf which Ida found as a cub in the forest and then raised?
 And maybe once she had properly bonded with the cub, she began having these dreams.
-She feels like she is being summoned to the snowy hills in which Great Denmother watches over the many packs of her children,
-of which Drifter (her companion) is one.
+Now she feels like she is being summoned to the snowy hills in which The Great Denmother watches over the many packs of her children,
+of which Whisper, her companion, is one.
 That is a great "I'll do this one day" kind of thing, but her first responsibility is to protect her people, and the wild has been pressing in on Ravenhall lately.
 One day though.
 
 > I will seek out the Great Denmother and learn what she wants of me.
 
-Those particular hills are good distance from Ravenhall, and the path there leads through mostly untamed and mostly uncharted wilderness.
-I think we'll set that one at extreme rank, for now at least.
-Maybe later we learn a better way to get there? Who knows.
+Vows come in 5 ranks (in order of increasing difficulty): troublesome, dangerous, formidable, extreme, and epic.
+I imagine that these particular hills are good distance from Ravenhall,
+and the path there leads through mostly untamed and uncharted wilderness.
+I think we'll set the difficulty at extreme rank, for now at least.
+Maybe later we learn a better way to get there and drop it down, or maybe it will be an absolutely _beastly_ underaking?
+
+Who knows?
 
 ## Ready to Roll!
 
