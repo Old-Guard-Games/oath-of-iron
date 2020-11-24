@@ -1,0 +1,17 @@
+  {% if seriesPosts %}
+  <div id="TOC">
+    <h1>Other posts in this series:</h1>
+    <ol>
+      {% for post in seriesPosts %}
+          {% if page.url != post.url %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{post.title}}</a>
+          {% else %}
+          <li class="active-post">
+            <em>{{post.title}}</em>
+          {% endif %}
+          </li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}

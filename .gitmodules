@@ -1,0 +1,4 @@
+[submodule "_site"]
+	path = _site
+	url = git@github.com:Old-Guard-Games/oath-of-iron.git
+	branch = gh-pages

@@ -1,0 +1,18 @@
+{%- assign d100 = include.d100 | times: 1 -%}
+{%- assign tens = d100 | divided_by: 10 | floor | modulo: 10 -%}
+{%- assign ones = d100 | modulo: 10 -%}
+  <div class="roll-results">
+    <div class="roll-container oracle">
+      {% if include.title %}<h4>Oracle: {{include.title}}</h4>{% endif %}
+      <div class="roll-outcome">
+        <span class="dice">
+            <img class="d10" src="/oath-of-iron/assets/img/dice/d100-{{tens}}.png" alt="d100 {{tens}}" />
+            <img class="d10" src="/oath-of-iron/assets/img/dice/d10-{{ones}}.png" alt="d10 {{ones}}" />
+        </span>
+        {% if include.result %}
+            <span class="oracle-result"><strong>{{include.d100}}: </strong> {{include.result}}</span>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,71 @@
+{%- assign d6n = include.d6 | times: 1 -%}
+{%- assign statn = include.stat | times: 1 -%}
+{%- assign addsn = include.adds | times: 1 -%}
+{%- assign chal1n = include.chal1 | times: 1 -%}
+{%- assign chal2n = include.chal2 | times: 1 -%}
+
+{%- assign action_total = d6n | plus: statn | plus: addsn -%}
+{%- if action_total > chal1n -%}
+    {%- assign hit1 = "hit" -%}
+    {%- assign did_hit_1 = true -%}
+{%- else -%}
+    {%- assign hit1 = "miss" -%}
+{%- endif -%}
+
+{%- if action_total > chal2n -%}
+    {%- assign hit2 = "hit" -%}
+    {%- assign did_hit_2 = true -%}
+{%- else -%}
+    {%- assign hit2 = "miss" -%}
+{%- endif -%}
+  <div class="roll-results">
+    <div class="roll-container">
+      {% if include.title %}<h4>{{include.title}}</h4>{% endif %}
+      <div class="roll-results">
+        <div class="part">
+          <img src="/oath-of-iron/assets/img/dice/d6-{{include.d6}}.png" alt="action die {{include.d6}}" />
+        </div>
+        <div class="part">
+          <span class="label">
+            {{include.stat_name}}
+          </span>
+          <img src="/oath-of-iron/assets/img/dice/plus-{{include.stat}}.png" alt="plus {{include.stat}} {{include.stat_name}}" />
+        </div>
+        <div class="part">
+          <span class="label">
+            Adds
+          </span>
+          <img src="/oath-of-iron/assets/img/dice/plus-{{include.adds}}.png" alt="plus {{include.adds}} adds" />
+        </div>
+        <div class="part">
+          <img src="/oath-of-iron/assets/img/dice/equals-{{action_total}}.png" alt="equals {{action_total}} action result" />
+        </div>
+        <div class="vs">
+            VS
+        </div>
+        <div class="part challenge">
+          <img class="d10" src="/oath-of-iron/assets/img/dice/d10-{{chal1n | modulo: 10}}.png" alt="challenge {{include.chal1}}" />
+          <img src="/oath-of-iron/assets/img/dice/indicator-{{hit1}}.png" alt="{{hit1}}-indicator" class="indicator">
+        </div>
+        <div class="part challenge">
+          <img class="d10" src="/oath-of-iron/assets/img/dice/d10-{{chal2n | modulo: 10}}.png" alt="challenge {{include.chal2}}" />
+          <img src="/oath-of-iron/assets/img/dice/indicator-{{hit2}}.png" alt="{{hit2}}-indicator" class="indicator">
+        </div>
+      </div>
+      {% if did_hit_1 and did_hit_2 %}
+        {% if chal1n == chal2n %}
+          <p class="outcome">Opportunity</p>
+        {% else %}
+          <p class="outcome">Strong Hit</p>
+        {% endif %}
+      {% elsif did_hit_1 or did_hit_2 %}
+        <p class="outcome">Weak Hit</p>
+      {% else %} 
+        {% if chal1n == chal2n %}
+          <p class="outcome">Threat</p>
+        {% else %}
+          <p class="outcome">Miss</p>
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>

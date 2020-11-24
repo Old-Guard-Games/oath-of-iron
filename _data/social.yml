@@ -1,0 +1,9 @@
+# These are the socials supported by default. If you want to add one which isn't present, find the icon name on https://fontawesome.com/
+# and add it's color in /_sass/social.scss. Brand defines Font Awesome's font type (fas is solid, fab is brand).
+
+
+social:
+  - {icon: 'github', type: "brand", link: 'https://www.github.com/Zenith-One'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/the_zenith_'}
+  - {icon: 'twitch', type: "brand", link: 'https://twitch.tv/the_zenith_'}
+  - {icon: 'rss', type: "solid", link: "/oath-of-iron/feed.xml"}
