@@ -8,8 +8,8 @@ layout: post
 series: Ida
 ---
 
-In [Part I](worldbuilding-part-i-the-land.html), we discussed what the land is like, and a bit of history.
-Then we learned some important things about our people in [Part II](worldbuilding-part-ii-the-people.html).
+In [Part I]({% post_url 2019-02-11-worldbuilding-part-i-the-land %}), we discussed what the land is like, and a bit of history.
+Then we learned some important things about our people in [Part II]({% post_url 2019-02-17-worldbuilding-part-ii-the-people %}).
 Definitely check those out if you missed them, because they will inform many decisions we make moving forward.
 
 In this, our final piece of worldbuilding, we will learn about other peoples and dangers with which our freshly conceived dwarven society will have to contend.

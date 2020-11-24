@@ -5,11 +5,13 @@
 {%- assign chal2n = include.chal2 | times: 1 -%}
 
 {%- assign action_total = d6n | plus: statn | plus: addsn -%}
+
 {%- if action_total > chal1n -%}
     {%- assign hit1 = "hit" -%}
     {%- assign did_hit_1 = true -%}
 {%- else -%}
     {%- assign hit1 = "miss" -%}
+    {%- assign did_hit_1 = false -%}
 {%- endif -%}
 
 {%- if action_total > chal2n -%}
@@ -17,6 +19,7 @@
     {%- assign did_hit_2 = true -%}
 {%- else -%}
     {%- assign hit2 = "miss" -%}
+    {%- assign did_hit_2 = false -%}
 {%- endif -%}
   <div class="roll-results">
     <div class="roll-container">

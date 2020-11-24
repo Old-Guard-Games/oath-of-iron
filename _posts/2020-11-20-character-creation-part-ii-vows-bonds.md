@@ -93,7 +93,8 @@ In fact, in the Ironlands, vows sworn on iron are sacred and failing to uphold y
 Therefore, picking good vows to start is quite important!
 
 According to the book, Ida will start with two vows: A long-term goal (background vow), and something more immediately pressing (the inciting incident). 
-If you recall in [Part III of Worldbuilding]({{site.baseurl}}/worldbuilding-part-iii-external-forces), there was a quest starter about a famous slayer who had gone missing.
+If you recall in [Part III of Worldbuilding]({% post_url 2019-02-20-worldbuilding-part-iii-external-forces%}),
+there was a quest starter about a famous slayer who had gone missing.
 However, I think it would be interesting to jump into the world and figure out what the inciting incident is, rather than deciding ahead of time, so we'll hang onto this idea about the other warden.
 
 {:.hidden}

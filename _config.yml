@@ -14,7 +14,7 @@ baseurl: "/oath-of-iron"
 author:
   name: the_zenith_
   email: zenithmods@gmail.com
-permalink: "/posts/:title:output_ext"
+permalink: "/posts/:slug/"
 plugins:
 - jekyll-paginate
 - jekyll-feed

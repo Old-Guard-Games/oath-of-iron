@@ -8,7 +8,12 @@ layout: post
 series: Ida
 ---
 
-In the previous series, we created [the land](worldbuilding-part-i-the-land.html), we decided who [the people](worldbuilding-part-ii-the-people.html) are who live in it, and finally we discussed [external forces](worldbuilding-part-iii-external-forces.html) which our people will need to deal with. The next logical step is to make some big decisions about who our protagonist is.  So without further ado, let's build Ida Eisenbaum, our dwarven slayer of beasts!
+In the previous series, we created [the land]({% post_url 2019-02-11-worldbuilding-part-i-the-land %}),
+we decided who [the people]({% post_url 2019-02-17-worldbuilding-part-ii-the-people %}) are who live in it,
+and finally we discussed [external forces]({% post_url 2019-02-20-worldbuilding-part-iii-external-forces %})
+which our people will need to deal with.
+The next logical step is to make some big decisions about who our protagonist is.
+So without further ado, let's build Ida Eisenbaum, our dwarven slayer of beasts!
 
 The first major decision we will need to make is whether we will be starting with our stats, or choose our assets first. I think before we decide on which we will do, we ought to discuss a bit about these things.
 

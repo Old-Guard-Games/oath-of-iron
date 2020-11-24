@@ -1,6 +1,6 @@
 ---
 title: Ida and the Deer
-date: 2020-11-20 00:00:00 Z
+date: 2020-11-23 00:00:00 Z
 categories:
 - Gameplay
 - Ida
