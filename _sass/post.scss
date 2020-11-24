@@ -95,3 +95,10 @@ article::after{
     text-indent: -1em;
   }
 }
+
+.prose {
+    // font-style: italic;
+    padding-left: 1em;
+    border-left: 1px solid #888;
+
+}

@@ -18,7 +18,11 @@
 
   {% if seriesPosts and postNumber > 1 %}
   <div class="series-statement">
-    <p>This article is part {{ postNumber }} of a series. If you have not read the previous parts, you may find links to the other articles in this series <a href="#TOC">below</a>.</p>
+    <p>
+      This article is the {{ postNumber | num_ordinal}} post in a series.
+      If you have not read the previous parts, you may find links to the other articles in this series
+      <a href="#TOC">below</a>.
+    </p>
 
   </div>
   {% endif %}
