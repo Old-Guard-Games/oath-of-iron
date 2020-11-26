@@ -1,4 +1,921 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="old-guard-games.github.io/oath-of-iron/feed.xml" rel="self" type="application/atom+xml" /><link href="old-guard-games.github.io/oath-of-iron/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-11-24T23:35:18+00:00</updated><id>old-guard-games.github.io/oath-of-iron/feed.xml</id><title type="html">Oath of Iron</title><subtitle>An Ironsworn Blog</subtitle><author><name>the_zenith_</name><email>zenithmods@gmail.com</email></author><entry><title type="html">Ida and the Deer</title><link href="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-deer/" rel="alternate" type="text/html" title="Ida and the Deer" /><published>2020-11-23T00:00:00+00:00</published><updated>2020-11-23T00:00:00+00:00</updated><id>old-guard-games.github.io/oath-of-iron/posts/ida-and-the-deer</id><content type="html" xml:base="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-deer/">&lt;p&gt;In the &lt;a href=&quot;#TOC&quot;&gt;previous 5 articles&lt;/a&gt;, we built a world and learned who our protagonist is (and where she comes from).
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="old-guard-games.github.io/oath-of-iron/feed.xml" rel="self" type="application/atom+xml" /><link href="old-guard-games.github.io/oath-of-iron/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-11-26T05:44:40+00:00</updated><id>old-guard-games.github.io/oath-of-iron/feed.xml</id><title type="html">Oath of Iron</title><subtitle>An Ironsworn Blog</subtitle><author><name>the_zenith_</name><email>zenithmods@gmail.com</email></author><entry><title type="html">Ida and the Cackler</title><link href="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-cackler/" rel="alternate" type="text/html" title="Ida and the Cackler" /><published>2020-11-25T00:00:00+00:00</published><updated>2020-11-25T00:00:00+00:00</updated><id>old-guard-games.github.io/oath-of-iron/posts/ida-and-the-cackler</id><content type="html" xml:base="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-cackler/">&lt;p&gt;&lt;a href=&quot;/oath-of-iron/posts/ida-and-the-stranger/&quot;&gt;Last time&lt;/a&gt;, Ida met and had dinner with Ragal Redclaw,
+the Warden for a different village.
+And then a big beastie showed up and it became clear that there was about to be a fight.
+Indeed this will be Ida’s debut fight, so let’s see how it goes.
+First, we’ll rewind a few seconds to set the stage.&lt;/p&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;Lambent yellow eyes shine from the darkness accompanied by a chuckling growl.
+  A creature about half again as tall as Ida and nearly as wide walks up to the edge of the campfire’s light.
+  The beast’s spade-like muzzle drips with frothy spittle as it splits open wider, looking like a wide, evil grin.
+  Its chuckling growl rises in pitch as the Cackler digs its claws into the earth and prepares to pounce.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;As mentioned before, there is definitely about to be a throwdown between Ida, Whisper, Ragal and this Cackler.
+Normally, based on what I imagine this thing looks like in my head,
+I would set the rank of this thing at Formidable (1 progress per harm, inflicts 3 harm),
+but with Ragal helping, that reduces the difficulty to Dangerous instead (2 progress per harm, inflicts 2 harm).&lt;/p&gt;
+
+&lt;p&gt;Ida is going to &lt;em&gt;Enter the Fray&lt;/em&gt; soon, so we will roll that.
+She’s not moving into position against an unaware foe or striking without warning, so she won’t be rolling +Shadow.
+Simliarly, although Ragal and Ida didn’t expect to run into a Cackler, it didn’t exactly ambush them, so it will not be +Wits.  +Heart it is, as she faces off against her foe.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Enter the Fray&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-6.png&quot; alt=&quot;action die 6&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Heart
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; alt=&quot;plus 2 Heart&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-8.png&quot; alt=&quot;equals 8 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-3.png&quot; alt=&quot;challenge 3&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-8.png&quot; alt=&quot;challenge 8&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-miss.png&quot; alt=&quot;miss-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        &lt;p class=&quot;outcome&quot;&gt;Weak Hit&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;weak hit,&lt;/strong&gt; choose one.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Bolster your position: Take +2 momentum&lt;/li&gt;
+    &lt;li&gt;Prepare to act: Take initiative.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ida will take initiative, especially since she already has +7 momentum.
+Initiative means it is far less likely that direct harm will befall her or her companions while she has initiative.&lt;/p&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;Ida clicks her tongue to Whisper and darts to her left, moving toward the Cackler’s flank.
+  She can vaguely sense Ragal circling the other direction.
+  The beast’s head swivels between Ida and Ragal, trying to track both of them with its black marble eyes.
+  Ida lunges forward, spinning her staff in a rapid strike, as Whisper simultaneously leaps out from behind her and bites at its foreleg.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;This would most definitely be a &lt;em&gt;Strike&lt;/em&gt;.
+Normally, a melee attack would be rolled with Iron, but Ida has the Long-Arm asset which allows her to attack +Edge instead if she opts to deal 1 harm instead of 2.
+The tradeoff is that she also adds +1 to the roll, and takes +1 extra momentum on a hit.&lt;br /&gt;
+Although Whisper doesn’t give us any adds for the Strike roll, we need to rememmber that he is attacking with her.
+If she hits, Whisper will give her +1 harm.
+If she misses and rolls a 1 on the action die, Whisper must be involved in the consequences.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Strike&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-5.png&quot; alt=&quot;action die 5&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Edge
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; alt=&quot;plus 2 Edge&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-1.png&quot; title=&quot;+1 from Long-Arm&quot; alt=&quot;plus 1 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-8.png&quot; alt=&quot;equals 8 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-0.png&quot; alt=&quot;challenge 10&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-miss.png&quot; alt=&quot;miss-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-6.png&quot; alt=&quot;challenge 6&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        &lt;p class=&quot;outcome&quot;&gt;Weak Hit&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;weak hit,&lt;/strong&gt; inflict your harm and lose initiative.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ida deals 1 harm, gains +1 momentum from Long-Arm, and deals 1 harm.
+I have the option of gaining +1 momentum or dealing +1 harm due to Whisper’s help. 
+I think the right move is to deal the extra harm.
+2 harm translates to 4 progress against a dangerous enemy, so we’re 40% of the way to nearly guaranteed victory.&lt;/p&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;Ida’s blow lands on the Cackler’s muscular neck, iron head slamming home as Whisper’s bites worry at its leg.
+  It staggers back, but whips around, swinging its tail angrily at Ida.
+  She barely manages to roll to the side before its bladed tip swings right through where her head was a moment before.
+  Ragal lets out a warcry and charges, swinging his battleaxe.
+  The Cackler lets loose an ear-splitting ululating shriek and rears up on its hind legs, batting Ragal and his axe aside.&lt;/p&gt;
+
+&lt;p&gt;Ida rolls to her feet and moves with Whisper to surround the beast on three sides.
+  She leaps up onto an old log to gain some height as well, hoping to use that height later to strike at the thing’s head.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;This is going to be an attempt to &lt;em&gt;Secure an Advantage&lt;/em&gt; over the Cackler. Surrounding it and grabbing a bit of high ground feels like an insightful move, so we’ll be rolling +Wits.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Secure an Advantage&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-3.png&quot; alt=&quot;action die 3&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Wits
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-3.png&quot; alt=&quot;plus 3 Wits&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-6.png&quot; alt=&quot;equals 6 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-3.png&quot; alt=&quot;challenge 3&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-9.png&quot; alt=&quot;challenge 9&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-miss.png&quot; alt=&quot;miss-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        &lt;p class=&quot;outcome&quot;&gt;Weak Hit&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;weak hit&lt;/strong&gt;, your advantage is short-lived. Take +1 momentum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We’re getting close to full on momentum with our +8 (out of a maximum of +10).
+We need to find an excuse to use it soon.&lt;/p&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;Ida’s stature draws the enemy’s attention and it rounds on her, snapping at her.
+  She fends off the bite with her iron-tipped staff, but the effort knocks her off balance and she stumbles off the rock.
+  Meanwhile, Ragal regains his feet and roars at the Cackler, earning its full focus.&lt;/p&gt;
+
+&lt;p&gt;Ida uses this moment of distraction to try and strike the beast in the back of the head, leaping past the whipping tail to do so.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Ida is trying to &lt;em&gt;Turn the Tide&lt;/em&gt; here, risking it all to sieze advantage from the enemy. The move in question here being &lt;em&gt;Strike&lt;/em&gt; of course.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Strike&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-6.png&quot; alt=&quot;action die 6&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Edge
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; alt=&quot;plus 2 Edge&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; title=&quot;+1 from Long-Arm, +1 from Turn the Tide&quot; alt=&quot;plus 2 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-10.png&quot; alt=&quot;equals 10 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-5.png&quot; alt=&quot;challenge 5&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-9.png&quot; alt=&quot;challenge 9&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        
+          &lt;p class=&quot;outcome&quot;&gt;Strong Hit&lt;/p&gt;
+        
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;strong hit,&lt;/strong&gt; inflict +1 harm. You retain initiative.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In addition to that, &lt;em&gt;Turn the Tide&lt;/em&gt; gives us +1 momentum and Long-Arm gives us +1 momentum.
+We’re at 9/10.
+We deal 2 harm (in the fiction, Whisper didn’t partake in this sudden act), which gives us 4 progress (for a total of 8).&lt;/p&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;The Cackler lets out a bark of pain as the iron foot of the staff crunches into the base of its skull.
+  Its left rear leg goes limp, either due to shock or damage to its nervous system.
+  Already close to the monster, Ida draws her belt knife and leans in to sink it in the Cackler’s neck in
+  an attempt to end the struggle quickly.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Ida is trying to &lt;em&gt;End the Fight&lt;/em&gt;, which is a progress move in which you roll only the challenge dice and compare them against the progress track for the fight. So we’ve effectively got a static 8 as our action total.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;End the Fight&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/circle-8.png&quot; title=&quot;8 progress&quot; alt=&quot;8 progress&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-6.png&quot; alt=&quot;challenge 6&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-4.png&quot; alt=&quot;challenge 4&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        
+          &lt;p class=&quot;outcome&quot;&gt;Strong Hit&lt;/p&gt;
+        
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;strong hit,&lt;/strong&gt; this foe is no longer in the fight.
+They are killed, out of action, flee, or surrender as appropriate to the situation and your intent.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Given that Ida’s intent was to kill the thing, seems pretty straightforward.&lt;/p&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;With a final pained chuckle, the wide head of the Cackler falls to the ground with a thud.
+  Ida drops her knife, and leans heavily on her staff, panting with effort. 
+  Ragal regards her over the corpse of the beast, his eyes full of a new respect.
+  “You fight better than the stories say.”&lt;/p&gt;
+
+&lt;p&gt;Ida grins. “You don’t hear many stories of terrifying short dwarven women.”
+  She examines her kill for a moment.
+  “This is the first Cackler I’ve managed to kill.
+  Is its meat safe to eat?”&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I don’t actually know the answer to this question, but the Oracle does.
+I give it 50/50 odds.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: 50/50&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-0.png&quot; alt=&quot;d100 0&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-8.png&quot; alt=&quot;d10 8&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;8: &lt;/strong&gt; No&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Hmm. That is unfortunate. Perhaps there is something else of use?
+I imagine that something this dangerous and large would be likely to have something worth harvesting.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Likely (26+)&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-9.png&quot; alt=&quot;d100 9&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-6.png&quot; alt=&quot;d10 6&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;96: &lt;/strong&gt; Yes&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;The other Warden laughs. “If you want to die from poison, you can eat it.”
+  He gestures to the bladed tail.
+  “This is good to take. It is sharp, and has poison inside.
+  The shaman may want it if you do not.”&lt;/p&gt;
+
+&lt;p&gt;Ida retrieves her knife and begins removing the sharpend bone scythe.
+  “It seems odd for one of these to be so far from the swamp,” she says between grunts
+  as she wrestles with the thick connective tissue.&lt;/p&gt;
+
+&lt;p&gt;“This is the fifth one I have seen,” Ragal says. “Fifth in the last two weeks.”&lt;/p&gt;
+
+&lt;p&gt;Ida’s eyebrows lift.
+  “That is more than I have seen in my entire life.
+  One more thing for the list of things I don’t know and will need to deal with eventually.”&lt;/p&gt;
+
+&lt;p&gt;Ragal smiles as he makes a small nick on the back of his forearm.
+  “The life of a Warden is not easy.”
+  A small well of bright red blood pools on his skin as he pulls out a purse of salt with his other hand.
+  He sprinkles some of the salt onto the wound, wincing slightly.
+  “Wait for a moment,” he says as he closes his eyes.&lt;/p&gt;
+
+&lt;p&gt;He begins a low, rumbling chant as he rubs the salt in the blood.
+  After a minute or so, his eyes open and he stands with the salt bag and begins walking
+  a wide circle around the fire, just out of range of its light. 
+  “I make a circle, to keep us safe,” he says just before stopping and closing his eyes once more.
+  Ida’s ears pop as the pressure within the salt circle changes.
+  “A ward seemed like a good idea after this,” he says, kicking the corpse.
+  “You can sleep and be safe inside it.”&lt;/p&gt;
+
+&lt;p&gt;Ida smiles in reply.
+  “It has been a while since I slept soundly knowing nothing would attack me when I’m vulnerable.”
+  She slices the last bit of tissue holding the blade onto the tail and it comes away.
+  Carrying it over to her backpack she asks, “Will you be going with me to Whitecairn?”&lt;/p&gt;
+
+&lt;p&gt;The Warden shakes his head.
+  “I have too much to do before I go back.”
+  He grins and gestures toward the Cackler.
+  “I think you can make it without dying.”&lt;/p&gt;
+
+&lt;p&gt;Ida shrugs. “Fair enough,” she says.
+  She pulls out a square of leather scrap and wraps the tail in it before exchanging
+  it with a fur blanket from her pack.
+  She begins clearing some ground by the fire to make her bed.
+  “Thank you for the meat, and for the news,” she says as she straightens the blanket out.
+  “The food, today’s trail, and that beastie there are getting the better of me, though.
+  I will see you in the morning.”&lt;/p&gt;
+
+&lt;p&gt;“No need to thank me,” Ragal says.
+  “You are a fellow Warden. You watch after your people.
+  Other Wardens watch out for you,
+  like you did when it came at me.”
+  He begins to settling down to sleep as well, but sleep overtakes Ida before he even has his blanket on the ground.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Ida is bedding down in the wilderness, and thus triggers the &lt;em&gt;Make Camp&lt;/em&gt; move:&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Make Camp&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-2.png&quot; alt=&quot;action die 2&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Supply
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; alt=&quot;plus 2 Supply&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-4.png&quot; alt=&quot;equals 4 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-2.png&quot; alt=&quot;challenge 2&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-2.png&quot; alt=&quot;challenge 2&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        
+          &lt;p class=&quot;outcome&quot;&gt;Opportunity&lt;/p&gt;
+        
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;strong hit,&lt;/strong&gt; you and your allies may each choose two.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Recuperate: Take +1 health for you and any companions.&lt;/li&gt;
+    &lt;li&gt;Partake: Suffer -1 supply and take +1 health for you and any
+companions.&lt;/li&gt;
+    &lt;li&gt;Relax: Take +1 spirit.&lt;/li&gt;
+    &lt;li&gt;Focus: Take +1 momentum.&lt;/li&gt;
+    &lt;li&gt;Prepare: When you break camp, add +1 if you &lt;em&gt;Undertake a Journey&lt;/em&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nobody got hurt (except for the Cackler), so neither of the health options are useful.
+Similarly, our spirit is full.
+I think, then, that we shall pick Focus and Prepare.
+Momentum is officially full now.&lt;/p&gt;
+
+&lt;p&gt;Doubles on the challenge dice gives us an opportunity, but nothing jumps out at me right this instant.
+Perhaps we’ll leave that until the morning.&lt;/p&gt;
+
+&lt;p&gt;Something else occurs to me.
+Between the conversation, shared meal, and shared ordeal, it seems like there’s a chance that, by the end of it, some sort of comeraderie may have formed between Ida and Ragal.
+I don’t believe that this is quite strong enough yet to &lt;em&gt;Forge a Bond,&lt;/em&gt; but it’s something to keep in mind
+should we run into Ragal again in the future.&lt;/p&gt;
+
+&lt;p&gt;I think with the fire burning low as Ida and Whisper sleep in the safety of Ragal Redclaw’s ward, that is an excellent place to leave off.
+Hopefully you have enjoyed this installment of the adventures of Ida Eisenbaum.
+Make sure to come back next time to follow Ida on her journey to Whitecairn to see about
+fixing this blightwater situation!&lt;/p&gt;</content><author><name>the_zenith_</name><email>zenithmods@gmail.com</email></author><summary type="html">Last time, Ida met and had dinner with Ragal Redclaw, the Warden for a different village. And then a big beastie showed up and it became clear that there was about to be a fight. Indeed this will be Ida’s debut fight, so let’s see how it goes. First, we’ll rewind a few seconds to set the stage.</summary></entry><entry><title type="html">Ida and the Stranger</title><link href="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-stranger/" rel="alternate" type="text/html" title="Ida and the Stranger" /><published>2020-11-24T21:08:00+00:00</published><updated>2020-11-24T21:08:00+00:00</updated><id>old-guard-games.github.io/oath-of-iron/posts/ida-and-the-stranger</id><content type="html" xml:base="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-stranger/">&lt;p&gt;When we left off &lt;a href=&quot;/oath-of-iron/posts/ida-and-the-deer/&quot;&gt;last time&lt;/a&gt;,
+Ida and Whisper were approaching a large man by his campmfire as evening was settling in.
+We know from the fiction that he’s a large fellow, but the question is whether he is a human, or something else.
+Let’s consult the oracle.
+I put the chances at about 50/50.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: 50/50&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-1.png&quot; alt=&quot;d100 1&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-3.png&quot; alt=&quot;d10 3&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;13: &lt;/strong&gt; No&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Interesting. So he isn’t a human. Another option would be a half-giant, which is “likely.”&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Likely&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-4.png&quot; alt=&quot;d100 4&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-5.png&quot; alt=&quot;d10 5&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;45: &lt;/strong&gt; Yes&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;So we have a half-giant man.&lt;/p&gt;
+
+&lt;p&gt;One other question before we learn more about him.
+Does Ida know this guy? Unlikely, but possible.
+It could be interesting either way.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Unlikely&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-7.png&quot; alt=&quot;d100 7&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-2.png&quot; alt=&quot;d10 2&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;72: &lt;/strong&gt; No&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Ooh, Ida does not know this guy, but it was close (unlikely is 76 or higher).
+Maybe Ida knows the guy by reputation but has never met him.
+Let’s consult some other oracles to see what sort of fellow he is and what he wants.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Disposition&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-3.png&quot; alt=&quot;d100 3&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-9.png&quot; alt=&quot;d10 9&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;39: &lt;/strong&gt; Suspicious&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Descriptor&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-7.png&quot; alt=&quot;d100 7&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-2.png&quot; alt=&quot;d10 2&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;72: &lt;/strong&gt; Confident&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Goal&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-6.png&quot; alt=&quot;d100 6&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-5.png&quot; alt=&quot;d10 5&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;65: &lt;/strong&gt; Protect a person&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Role&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-7.png&quot; alt=&quot;d100 7&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-7.png&quot; alt=&quot;d10 7&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;77: &lt;/strong&gt; Warrior&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;And finally, after consulting my &lt;a href=&quot;https://www.fantasynamegenerators.com/giant-names.php&quot;&gt;favorite fantasy name generator&lt;/a&gt;,
+we have Ragal, the confident but suspicious warrior, who wishes to protect someone.
+Given the results, it seems most straightforward to have Ragal be a Warden from a different village.&lt;/p&gt;
+
+&lt;h2 id=&quot;ragal-redclaw&quot;&gt;Ragal Redclaw&lt;/h2&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;The silhouette of a tall man wearing thick furs looms ahead, outlined by the campfire’s glow.
+  Ida calls out, “Hail, stranger!”&lt;/p&gt;
+
+&lt;p&gt;The huge furred figure springs to action, and before Ida has much of a chance to even fully process what is happening,
+  the strange man is crouched facing her, massive axe held at the ready.
+  “Who are you?!” he snarls at her. “What do you want?”&lt;/p&gt;
+
+&lt;p&gt;Whisper does not take kindly to sudden aggression and the wolf bares his fangs and lets out a menacing growl. 
+  “Whoah,” Ida says, stepping in front of Whisper, still facing the stranger.
+  “We aren’t here to fight. We just saw your fire and thought we would join you, maybe trade.”&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;This is a tense situation, and it seems like Ida is trying to “charm, pacify, or convince” this stranger, which then triggers the Compel move, +Heart in this case.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Compel&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-5.png&quot; alt=&quot;action die 5&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Heart
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; alt=&quot;plus 2 Heart&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-7.png&quot; alt=&quot;equals 7 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-1.png&quot; alt=&quot;challenge 1&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-6.png&quot; alt=&quot;challenge 6&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        
+          &lt;p class=&quot;outcome&quot;&gt;Strong Hit&lt;/p&gt;
+        
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;strong hit,&lt;/strong&gt; they’ll do what you want or share what they know.
+Take +1 momentum.
+If you use this exchange to &lt;em&gt;Gather Information,&lt;/em&gt; make that move now and add +1.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That brings us up to +6 momentum, and I do believe that we will be gathering information as we sit with this fellow.
+We’ll go ahead and roll now so the narrative context is ready for the fiction.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container&quot;&gt;
+      &lt;h4&gt;Gather Information&lt;/h4&gt;
+      &lt;div class=&quot;roll-results&quot;&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-4.png&quot; alt=&quot;action die 4&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label&quot;&gt;
+            Wits
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-3.png&quot; alt=&quot;plus 3 Wits&quot; /&gt;
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
+            Adds
+          &lt;/span&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-1.png&quot; title=&quot;+1 from Compel&quot; alt=&quot;plus 1 adds&quot; /&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;part&quot;&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-8.png&quot; alt=&quot;equals 8 action result&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;vs&quot;&gt;
+            VS
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-9.png&quot; alt=&quot;challenge 9&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-miss.png&quot; alt=&quot;miss-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;part challenge&quot;&gt;
+          &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-6.png&quot; alt=&quot;challenge 6&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/indicator-hit.png&quot; alt=&quot;hit-indicator&quot; class=&quot;indicator&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+        &lt;p class=&quot;outcome&quot;&gt;Weak Hit&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;weak hit,&lt;/strong&gt; the information complicates your quest or introduces a new danger.
+Envision what you discover (&lt;em&gt;Ask the Oracle&lt;/em&gt; if unsure), and take +1 momentum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And the theme of this discovery is?&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Theme&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-3.png&quot; alt=&quot;d100 3&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-2.png&quot; alt=&quot;d10 2&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;32: &lt;/strong&gt; Superstition&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;prose&quot;&gt;
+  
+&lt;p&gt;The man’s posture relaxes slightly, but his suspicion holds.
+  “Come into the light so I can see you better.”
+  Ida walks forward, muttering under her breath at Whisper to be good.
+  Hackles still up, the wolf follows her into the light.
+  He looks from Ida to the Whisper for a moment before a look of recognition lights his face.
+  “Red hair, wolf, short.
+  You must be that Warden from Ravenhall.”&lt;/p&gt;
+
+&lt;p&gt;Ida relaxes as well, and nods.
+  “Aye, I am Ida,” she says, extending her hand and considering the man.
+  She notes the bear’s head inscribed into the double-headed axe he carries.
+  “And you must be Ragal Redclaw.
+  That’s a distinctive weapon.”&lt;/p&gt;
+
+&lt;p&gt;“I am, and it is.
+  Come sit. My fire is your fire.”
+  The half-giant gestures to a stone near the fire and Ida takes a seat on it.
+  Whisper warily sits beside her, not taking his eyes off the man.
+  Ragal claims his own rock nearer to the fire and begins poking the contents of a copper pan with a charred stick.
+  The fat in the pan pops and hisses, sizzling against the meat within.
+  “Your wolf is not trusting me,”
+  In the wild places, your wolf is smart to not trust a stranger.”
+  He rests his stick on the pan, then reaches into a leather satchel beside him.
+  After a moment, he withdraws a small parcel wrapped in a thin leather cover.
+  Pulling it back, he holds the contents out to Whisper.
+  “Salted liver. I don’t like it much, but maybe the wolf does?”&lt;/p&gt;
+
+&lt;p&gt;Whisper sniffs the offering and snatches it up, devouring the liver in only a few chomps.
+  Ida smiles as he eats.
+  “Although we haven’t met, I wouldn’t call us strangers exactly.
+  You are the Warden of Whitecairn. I have heard many stories of you.”
+  Indeed Ragal Redclaw was quite well known among Wardens.
+  It was said that he once faced down a ragemane alone with nothing but his axe and a light tunic.
+  Judging by the curved horn hanging off his pack, that rumor might just be true.&lt;/p&gt;
+
+&lt;p&gt;“Most stories are taller than I am,” Ragal says, smiling.
+  “But only a little.”&lt;/p&gt;
+
+&lt;p&gt;Ida begins fishing through her own pack, and extends a red sack to Ragal.
+  “I offer owlberries in trade for some of the meat in that pan.
+  I was hunting a deer, but the blight had already taken it.”&lt;/p&gt;
+
+&lt;p&gt;Ragal nods, accepting the bag.
+  He pulls out a handful of berries and tosses them into the pan, where they sputter in the fat.
+  “Blight has been bad lately.”
+  He points to the stream.
+  “Red bubbles going down the stream are not good.
+  Got the people in Whitecairn scared.
+  The new shaman said the blight needs cleaning by fire.
+  The hunters been killing all the deer and boar they find with blight and burning them in
+  town.
+  When the fire goes out, the shaman washes the ashes down the stream.”
+  He points to the bank nearby.
+  “Not good.”&lt;/p&gt;
+
+&lt;p&gt;Ida shakes her head.
+  “That is unacceptable.
+  They are washing their problems downstream to my people.
+  Is it at least reducing the blight near Whitecairn?”&lt;/p&gt;
+
+&lt;p&gt;Ragal takes a moment to consider his answer as he stirs.
+  “Maybe a little,” he says as he wraps a strip of cloth around the handle of the pan.
+  “If it is getting lighter, it is not much.”
+  He pulls a wooden disk from his pack and empties a portion of the food from the pan onto it.
+  Ida can see that the meat she’s been smelling is boar, accompanied by wild roots and owlberries.
+  Ragal holds the pan out to her.&lt;/p&gt;
+
+&lt;p&gt;“Thank you,” she says. She pulls the knife out of its sheath on her belt and begins eating.
+  After living for several days on mostly tree nuts and sour berries,
+  her stomach very enthusiastically accepts her offering of savory pork.
+  “This is amazing,” she says, wiping grease off her chin.
+  “There haven’t been many boar near Ravenhall in the last few weeks.”
+  She motions toward the stream. “Maybe I know why.”&lt;/p&gt;
+
+&lt;p&gt;Ragal nods, then speaks through a mouthful of food.
+  “Boar have better senses for this thing than others.
+  This is salted. I killed it weeks ago.”
+  He lets out a loud belch, then quickly glances at Ida slightly embarrassed.
+  “Sorry. Forgot my manners.”&lt;/p&gt;
+
+&lt;p&gt;Ida chuckles and returns the belch.
+  “I am a Warden, not a blushing maid.”
+  She uses her knife to shovel the sauce and leftover vegetables to the side of her plate and into her mouth,
+  then hands the last two bites of boar to Whisper, who consumes them greedily and looks expectantly for more.
+  “That’s it for now, friend. We will hunt together soon and you can have a feast.”
+  The wolf chuffs his displeasure at her as she locks gazes with Ragal.
+  “I will need to travel to Whitecairn and stop this,” she says, waving her empty plate at the water nearby.
+  “If I don’t stop this before it gets worse, my village will be unprepared for the winter.”&lt;/p&gt;
+
+&lt;p&gt;The half-giant reaches out and takes the plate from Ida and lays it on the ground beside his own.
+  “Will you fight them?” he asks, staring intently into her eyes.&lt;/p&gt;
+
+&lt;p&gt;“Them?” she asks. “I have no complaint with the people of your village.
+  If this shaman will not stop fouling the water, I may have issue with him.”
+  Her returned gaze is unwavering as she pulls out her pendant.
+  “I will not be a danger to the folk of Whitecairn unless they are a danger to Ravenhall.”&lt;/p&gt;
+
+&lt;p&gt;Ragal’s eyes flit from Ida’s to the pendant in her hand.
+  “An oath on the black iron,” he says, approving.
+  “Good.”&lt;/p&gt;
+
+&lt;p&gt;Whisper’s ears perk up and his attention snaps to a spot in the darkness outside the firelight.
+  “What is it, Whisper?” Ida asks, peering out to see if she can catch what the wolf is sensing.
+  She slowly grabs her staff and stands, and she can see Ragal standing as well.
+  The creak of her leathers sounds louder in the evening quiet, and suddenly Ida realizes that the forest has gone very quiet indeed.
+  A snapping twig from the darkness sounds like a hammerblow in the near silence.&lt;/p&gt;
+
+&lt;p&gt;Lambent yellow eyes shine from the darkness accompanied by a chuckling growl.
+  A creature about half again as tall as Ida and nearly as wide walks up to the edge of the campfire’s light.
+  The beast’s spade-like muzzle drips with frothy spittle as it splits open wider, looking like a wide, evil grin.
+  Its chuckling growl rises in pitch as the Cackler digs its claws into the earth and prepares to pounce.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;There is definitely about to be a throwdown between Ida, Whisper, Ragal and this Cackler.
+However, that throwdown will wait until next time.
+Until then, stay safe out there!&lt;/p&gt;</content><author><name>the_zenith_</name><email>zenithmods@gmail.com</email></author><summary type="html">When we left off last time, Ida and Whisper were approaching a large man by his campmfire as evening was settling in. We know from the fiction that he’s a large fellow, but the question is whether he is a human, or something else. Let’s consult the oracle. I put the chances at about 50/50.</summary></entry><entry><title type="html">Ida and the Deer</title><link href="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-deer/" rel="alternate" type="text/html" title="Ida and the Deer" /><published>2020-11-23T00:00:00+00:00</published><updated>2020-11-23T00:00:00+00:00</updated><id>old-guard-games.github.io/oath-of-iron/posts/ida-and-the-deer</id><content type="html" xml:base="old-guard-games.github.io/oath-of-iron/posts/ida-and-the-deer/">&lt;p&gt;In the &lt;a href=&quot;#TOC&quot;&gt;previous 5 articles&lt;/a&gt;, we built a world and learned who our protagonist is (and where she comes from).
 It’s finally time to get her to the imaginary table and see how things go.
 To set things up, I envision that Ida has been out in the wilderness for several days already, patroling the forest.
 Because I’m a glutton for punishment, I choose to begin with only 3 supply instead of 5.&lt;/p&gt;
@@ -9,23 +926,29 @@ Because I’m a glutton for punishment, I choose to begin with only 3 supply ins
     &lt;div class=&quot;roll-container&quot;&gt;
       &lt;h4&gt;Resupply&lt;/h4&gt;
       &lt;div class=&quot;roll-results&quot;&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-3.png&quot; alt=&quot;action die 3&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;span class=&quot;label&quot;&gt;
             Wits
           &lt;/span&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-3.png&quot; alt=&quot;plus 3 Wits&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
-          &lt;span class=&quot;label&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
             Adds
           &lt;/span&gt;
-          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-1.png&quot; alt=&quot;plus 1 adds&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
         &lt;/div&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
-          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-7.png&quot; alt=&quot;equals 7 action result&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-6.png&quot; alt=&quot;equals 6 action result&quot; /&gt;
         &lt;/div&gt;
         &lt;div class=&quot;vs&quot;&gt;
             VS
@@ -45,9 +968,13 @@ Because I’m a glutton for punishment, I choose to begin with only 3 supply ins
     &lt;/div&gt;
   &lt;/div&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;weak hit,&lt;/strong&gt; take up to +2 supply, but suffer -1 momentum for each.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;h2 id=&quot;something-is-afoot&quot;&gt;Something is afoot…&lt;/h2&gt;
 
-&lt;p&gt;Hmm, a weak hit on Resupply means I can take up to +2 supply, but I have to suffer -1 momentum for each.
+&lt;p&gt;Hmm, having the option of trading supply for momentum.
 Due to circumstances we need to envision, Ida finds herself in a situation in which she can acquire more supplies,
 but it will cost her.
 I consult the Settlement Trouble oracle for inspiration, because it seems like a good place to look for some broader context.
@@ -70,6 +997,8 @@ Maybe there is an overall local problem that could get the creative juices flowi
   &lt;/div&gt;
 
 &lt;p&gt;So Ida has made a dangerous discovery which has arrested her search for supplies.
+This discovery will be one that will force her to choose between doing her duty to her village (momentum),
+and keeping her supplies at a comfortable level.
 Let’s consult the Action and Theme oracles and have a think about what they say.&lt;/p&gt;
 
 &lt;div class=&quot;roll-results&quot;&gt;
@@ -143,21 +1072,27 @@ Let’s consult the Action and Theme oracles and have a think about what they sa
     &lt;div class=&quot;roll-container&quot;&gt;
       &lt;h4&gt;Swear an Iron Vow&lt;/h4&gt;
       &lt;div class=&quot;roll-results&quot;&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-1.png&quot; alt=&quot;action die 1&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;span class=&quot;label&quot;&gt;
             Heart
           &lt;/span&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-2.png&quot; alt=&quot;plus 2 Heart&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
-          &lt;span class=&quot;label&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
             Adds
           &lt;/span&gt;
-          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; alt=&quot;plus 0 adds&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
         &lt;/div&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-3.png&quot; alt=&quot;equals 3 action result&quot; /&gt;
         &lt;/div&gt;
@@ -179,9 +1114,13 @@ Let’s consult the Action and Theme oracles and have a think about what they sa
     &lt;/div&gt;
   &lt;/div&gt;
 
-&lt;p&gt;On a weak hit, “you are determined but begin your quest with more questions than answers.
-Take +1 momentum, and envision what you do to find a path forward.”
-That tracks with what we know, or more importantly the mountain of things we don’t know, about the situation.
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;weak hit,&lt;/strong&gt; you are determined but begin your quest with more
+  questions than answers. Take +1 momentum, and envision what you
+  do to find a path forward.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That tracks with what we know, or more importantly the mountain of things we don’t know, about the situation.
 Time to get to work, then!&lt;/p&gt;
 
 &lt;div class=&quot;prose&quot;&gt;
@@ -221,21 +1160,27 @@ which certainly can’t hurt.&lt;/p&gt;
     &lt;div class=&quot;roll-container&quot;&gt;
       &lt;h4&gt;Gather Information&lt;/h4&gt;
       &lt;div class=&quot;roll-results&quot;&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-2.png&quot; alt=&quot;action die 2&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;span class=&quot;label&quot;&gt;
             Wits
           &lt;/span&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-3.png&quot; alt=&quot;plus 3 Wits&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
-          &lt;span class=&quot;label&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
             Adds
           &lt;/span&gt;
-          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-1.png&quot; alt=&quot;plus 1 adds&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-1.png&quot; title=&quot;+1 from Wildblood&quot; alt=&quot;plus 1 adds&quot; /&gt;
         &lt;/div&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-6.png&quot; alt=&quot;equals 6 action result&quot; /&gt;
         &lt;/div&gt;
@@ -259,10 +1204,16 @@ which certainly can’t hurt.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 
-&lt;p&gt;Excellent! “You discover something helpful and specific.
-The path you must follow or action you must take to make progress is made clear.”
-And we get +2 momentum, bringing our total to +5.
-I have an idea what this might mean.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;strong&gt;strong hit,&lt;/strong&gt; you discover something helpful and specific. The
+  path you must follow or action you must take to make progress is
+  made clear. Envision what you learn (&lt;em&gt;Ask the Oracle&lt;/em&gt; if unsure), and
+  take +2 momentum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Excellent!
+The path is made clear and we get +2 momentum, bringing our total to +5.
+I think I know where this is going.&lt;/p&gt;
 
 &lt;div class=&quot;prose&quot;&gt;
   
@@ -298,21 +1249,27 @@ Therefore, we’ll set the difficulty of the journey to “Dangerous.”&lt;/p&g
     &lt;div class=&quot;roll-container&quot;&gt;
       &lt;h4&gt;Undertake a Journey&lt;/h4&gt;
       &lt;div class=&quot;roll-results&quot;&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/d6-6.png&quot; alt=&quot;action die 6&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;span class=&quot;label&quot;&gt;
             Wits
           &lt;/span&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-3.png&quot; alt=&quot;plus 3 Wits&quot; /&gt;
         &lt;/div&gt;
+        
+        
         &lt;div class=&quot;part&quot;&gt;
-          &lt;span class=&quot;label&quot;&gt;
+          &lt;span class=&quot;label adds&quot;&gt;
             Adds
           &lt;/span&gt;
-          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; alt=&quot;plus 0 adds&quot; /&gt;
+          &lt;img src=&quot;/oath-of-iron/assets/img/dice/plus-0.png&quot; title=&quot;&quot; alt=&quot;plus 0 adds&quot; /&gt;
         &lt;/div&gt;
+        
         &lt;div class=&quot;part&quot;&gt;
           &lt;img src=&quot;/oath-of-iron/assets/img/dice/equals-9.png&quot; alt=&quot;equals 9 action result&quot; /&gt;
         &lt;/div&gt;
@@ -335,6 +1292,16 @@ Therefore, we’ll set the difficulty of the journey to “Dangerous.”&lt;/p&g
       
     &lt;/div&gt;
   &lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a &lt;em&gt;strong hit,&lt;/em&gt; you reach a waypoint. If the waypoint is unknown to
+  you, envision it (&lt;em&gt;Ask the Oracle&lt;/em&gt; if unsure). Then, choose one.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;You make good use of your resources: Mark progress.&lt;/li&gt;
+    &lt;li&gt;You move at speed: Mark progress and take +1 momentum, but
+suffer -1 supply.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Not only is it a strong hit, it is also an Opportunity, which is to say that a twist occurs which adds something interesting to the story.
 First we’ll handle the strong hit.
@@ -414,13 +1381,64 @@ She is one of their protectors after all.&lt;/p&gt;
 
 &lt;p&gt;For our second bond, I think it would be interesting to have a best friend or a family member that we’re particularly close to in Ravenhall.
 While we could theoretically waffle about until a good idea who that may be slaps us upside the head, it would be more expedient to consult the oracle again.
-One of the oracles related to people is “role,” so let’s see what kind of person this is.
-The oracle’s response is traveler, which my reflex tells me means a merchant or traveling tradesman. However “trader” is also on the list.
-Maybe a roll on the “goal” table will give us a bit more inspiration…aha! The oracle says “spread faith.”&lt;/p&gt;
+One of the oracles related to people is “role,” so let’s see what kind of person this is.&lt;/p&gt;
 
-&lt;p&gt;So our friend is a traveling priest of some sort.
-Consulting a couple more oracles gives us a good picture of our friend.
-Uncle Kato is a quirky priest of Ysrena, the godess of the forge, which means he might also do a bit of tradework in his travels as well.
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Role&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-2.png&quot; alt=&quot;d100 2&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-9.png&quot; alt=&quot;d10 9&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;29: &lt;/strong&gt; Traveler&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;I am initially inclined to interpret this as a merchant or traveling tradesman.
+However “trader” is also on the list.
+Maybe a roll on the “goal” table will give us a bit more inspiration.&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Goal&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-6.png&quot; alt=&quot;d100 6&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-0.png&quot; alt=&quot;d10 0&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;60: &lt;/strong&gt; Spread faith&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Aha! So our friend is a traveling priest of some sort.
+Consulting one more oracle will give us a clearer picture of this friend (or relative).&lt;/p&gt;
+
+&lt;div class=&quot;roll-results&quot;&gt;
+    &lt;div class=&quot;roll-container oracle&quot;&gt;
+      &lt;h4&gt;Oracle: Character Descriptor&lt;/h4&gt;
+      &lt;div class=&quot;roll-outcome&quot;&gt;
+        &lt;span class=&quot;dice&quot;&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d100-3.png&quot; alt=&quot;d100 3&quot; /&gt;
+            &lt;img class=&quot;d10&quot; src=&quot;/oath-of-iron/assets/img/dice/d10-6.png&quot; alt=&quot;d10 6&quot; /&gt;
+        &lt;/span&gt;
+        
+            &lt;span class=&quot;oracle-result&quot;&gt;&lt;strong&gt;36: &lt;/strong&gt; Quirky&lt;/span&gt;
+        
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Uncle Kato is a quirky priest of Ysrena, the godess of the forge, which means he might also do a bit of tradework in his travels as well.
 He is also the reason Ida knows as much as she does about living in the wilderness, because she grew up traveling with him.
 The priest taught her to fight as well, and she and her uncle spent many evenings sparring with weighted staves after a day of riding through the wilderness.
 When she was old enough to choose her own path, Kato guided her in crafting her ironwood staff, which is long and relatively slender, but surprisingly rigid.
