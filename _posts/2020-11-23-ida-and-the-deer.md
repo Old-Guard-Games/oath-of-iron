@@ -20,14 +20,16 @@ On the bright side, Ida is wrapping up some hunting. I'll begin the game with a 
     d6="3"
     stat_name="Wits"
     stat="3"
-    adds="1"
+    adds="0"
     chal1="7"
     chal2="4"
  %}
 
+ > On a **weak hit,** take up to +2 supply, but suffer -1 momentum for each.
+
 ## Something is afoot...
 
-Hmm, a weak hit on Resupply means I can take up to +2 supply, but I have to suffer -1 momentum for each.
+Hmm, having the option of trading supply for momentum.
 Due to circumstances we need to envision, Ida finds herself in a situation in which she can acquire more supplies,
 but it will cost her.
 I consult the Settlement Trouble oracle for inspiration, because it seems like a good place to look for some broader context.
@@ -40,6 +42,8 @@ Maybe there is an overall local problem that could get the creative juices flowi
     %}
 
 So Ida has made a dangerous discovery which has arrested her search for supplies.
+This discovery will be one that will force her to choose between doing her duty to her village (momentum),
+and keeping her supplies at a comfortable level.
 Let's consult the Action and Theme oracles and have a think about what they say.
 
 {% include oracle.html
@@ -97,8 +101,10 @@ This sounds an awful lot like swearing upon iron to complete a quest, and thus t
     chal2="2"
  %}
 
-On a weak hit, "you are determined but begin your quest with more questions than answers.
-Take +1 momentum, and envision what you do to find a path forward."
+> On a **weak hit,** you are determined but begin your quest with more
+  questions than answers. Take +1 momentum, and envision what you
+  do to find a path forward.
+
 That tracks with what we know, or more importantly the mountain of things we don't know, about the situation.
 Time to get to work, then!
 
@@ -140,14 +146,19 @@ which certainly can't hurt.
     stat_name="Wits"
     stat="3"
     adds="1"
+    adds_title="+1 from Wildblood"
     chal1="4"
     chal2="1"
 %}
+
+> On a **strong hit,** you discover something helpful and specific. The
+  path you must follow or action you must take to make progress is
+  made clear. Envision what you learn (_Ask the Oracle_ if unsure), and
+  take +2 momentum.
  
-Excellent! "You discover something helpful and specific.
-The path you must follow or action you must take to make progress is made clear."
-And we get +2 momentum, bringing our total to +5.
-I have an idea what this might mean.
+Excellent!
+The path is made clear and we get +2 momentum, bringing our total to +5.
+I think I know where this is going.
 
 {% prose %}
   For several miles, Ida and Whisper painstakingly make their way through the rocky ground.
@@ -186,6 +197,12 @@ Therefore, we'll set the difficulty of the journey to "Dangerous."
     chal1="8"
     chal2="8"
 %}
+
+> On a *strong hit,* you reach a waypoint. If the waypoint is unknown to
+  you, envision it (_Ask the Oracle_ if unsure). Then, choose one.
+  * You make good use of your resources: Mark progress.
+  * You move at speed: Mark progress and take +1 momentum, but
+    suffer -1 supply.
 
 Not only is it a strong hit, it is also an Opportunity, which is to say that a twist occurs which adds something interesting to the story.
 First we'll handle the strong hit.

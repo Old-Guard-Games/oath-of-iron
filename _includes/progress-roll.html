@@ -1,12 +1,8 @@
-{%- assign d6n = include.d6 | times: 1 -%}
-{%- assign statn = include.stat | times: 1 -%}
-{%- assign addsn = include.adds | times: 1 -%}
+{%- assign progn = include.progress | times: 1 -%}
 {%- assign chal1n = include.chal1 | times: 1 -%}
 {%- assign chal2n = include.chal2 | times: 1 -%}
 
-{%- assign action_total = d6n | plus: statn | plus: addsn -%}
-
-{%- if action_total > chal1n -%}
+{%- if progn > chal1n -%}
     {%- assign hit1 = "hit" -%}
     {%- assign did_hit_1 = true -%}
 {%- else -%}
@@ -14,40 +10,20 @@
     {%- assign did_hit_1 = false -%}
 {%- endif -%}
 
-{%- if action_total > chal2n -%}
+{%- if progn > chal2n -%}
     {%- assign hit2 = "hit" -%}
     {%- assign did_hit_2 = true -%}
 {%- else -%}
     {%- assign hit2 = "miss" -%}
     {%- assign did_hit_2 = false -%}
 {%- endif -%}
+
   <div class="roll-results">
     <div class="roll-container">
       {% if include.title %}<h4>{{include.title}}</h4>{% endif %}
       <div class="roll-results">
-        {% if include.d6 %}
         <div class="part">
-          <img src="/oath-of-iron/assets/img/dice/d6-{{include.d6}}.png" alt="action die {{include.d6}}" />
-        </div>
-        {% endif %}
-        {% if include.stat %}
-        <div class="part">
-          <span class="label">
-            {{include.stat_name}}
-          </span>
-          <img src="/oath-of-iron/assets/img/dice/plus-{{include.stat}}.png" alt="plus {{include.stat}} {{include.stat_name}}" />
-        </div>
-        {% endif %}
-        {% if include.adds %}
-        <div class="part">
-          <span class="label adds">
-            Adds
-          </span>
-          <img src="/oath-of-iron/assets/img/dice/plus-{{include.adds}}.png" title="{{include.adds_title}}" alt="plus {{include.adds}} adds" />
-        </div>
-        {% endif %}
-        <div class="part">
-          <img src="/oath-of-iron/assets/img/dice/equals-{{action_total}}.png" alt="equals {{action_total}} action result" />
+          <img src="/oath-of-iron/assets/img/dice/circle-{{progn}}.png" title="{{progn}} progress" alt="{{progn}} progress" />
         </div>
         <div class="vs">
             VS

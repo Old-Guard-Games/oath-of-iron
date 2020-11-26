@@ -112,6 +112,7 @@ We'll go ahead and roll now so the narrative context is ready for the fiction.
   stat_name="Wits"
   stat="3"
   adds="1"
+  adds_title="+1 from Compel"
   chal1="9"
   chal2="6"
 %}
@@ -182,4 +183,66 @@ And the theme of this discovery is?
   When the fire goes out, the shaman washes the ashes down the stream."
   He points to the bank nearby.
   "Not good."
+
+  Ida shakes her head.
+  "That is unacceptable.
+  They are washing their problems downstream to my people.
+  Is it at least reducing the blight near Whitecairn?"
+
+  Ragal takes a moment to consider his answer as he stirs.
+  "Maybe a little," he says as he wraps a strip of cloth around the handle of the pan.
+  "If it is getting lighter, it is not much."
+  He pulls a wooden disk from his pack and empties a portion of the food from the pan onto it.
+  Ida can see that the meat she's been smelling is boar, accompanied by wild roots and owlberries.
+  Ragal holds the pan out to her.
+
+  "Thank you," she says. She pulls the knife out of its sheath on her belt and begins eating.
+  After living for several days on mostly tree nuts and sour berries,
+  her stomach very enthusiastically accepts her offering of savory pork.
+  "This is amazing," she says, wiping grease off her chin.
+  "There haven't been many boar near Ravenhall in the last few weeks."
+  She motions toward the stream. "Maybe I know why."
+
+  Ragal nods, then speaks through a mouthful of food.
+  "Boar have better senses for this thing than others.
+  This is salted. I killed it weeks ago."
+  He lets out a loud belch, then quickly glances at Ida slightly embarrassed.
+  "Sorry. Forgot my manners."
+
+  Ida chuckles and returns the belch.
+  "I am a Warden, not a blushing maid."
+  She uses her knife to shovel the sauce and leftover vegetables to the side of her plate and into her mouth,
+  then hands the last two bites of boar to Whisper, who consumes them greedily and looks expectantly for more.
+  "That's it for now, friend. We will hunt together soon and you can have a feast."
+  The wolf chuffs his displeasure at her as she locks gazes with Ragal.
+  "I will need to travel to Whitecairn and stop this," she says, waving her empty plate at the water nearby.
+  "If I don't stop this before it gets worse, my village will be unprepared for the winter."
+
+  The half-giant reaches out and takes the plate from Ida and lays it on the ground beside his own.
+  "Will you fight them?" he asks, staring intently into her eyes.
+
+  "Them?" she asks. "I have no complaint with the people of your village.
+  If this shaman will not stop fouling the water, I may have issue with him."
+  Her returned gaze is unwavering as she pulls out her pendant.
+  "I will not be a danger to the folk of Whitecairn unless they are a danger to Ravenhall."
+
+  Ragal's eyes flit from Ida's to the pendant in her hand.
+  "An oath on the black iron," he says, approving.
+  "Good."
+
+  Whisper's ears perk up and his attention snaps to a spot in the darkness outside the firelight.
+  "What is it, Whisper?" Ida asks, peering out to see if she can catch what the wolf is sensing.
+  She slowly grabs her staff and stands, and she can see Ragal standing as well.
+  The creak of her leathers sounds louder in the evening quiet, and suddenly Ida realizes that the forest has gone very quiet indeed.
+  A snapping twig from the darkness sounds like a hammerblow in the near silence.
+
+  Lambent yellow eyes shine from the darkness accompanied by a chuckling growl.
+  A creature about half again as tall as Ida and nearly as wide walks up to the edge of the campfire's light.
+  The beast's spade-like muzzle drips with frothy spittle as it splits open wider, looking like a wide, evil grin.
+  Its chuckling growl rises in pitch as the Cackler digs its claws into the earth and prepares to pounce.
 {% endprose %}
+
+
+There is definitely about to be a throwdown between Ida, Whisper, Ragal and this Cackler.
+However, that throwdown will wait until next time.
+Until then, stay safe out there!

@@ -60,11 +60,32 @@ She is one of their protectors after all.
 For our second bond, I think it would be interesting to have a best friend or a family member that we're particularly close to in Ravenhall.
 While we could theoretically waffle about until a good idea who that may be slaps us upside the head, it would be more expedient to consult the oracle again.
 One of the oracles related to people is "role," so let's see what kind of person this is.
-The oracle's response is traveler, which my reflex tells me means a merchant or traveling tradesman. However "trader" is also on the list.
-Maybe a roll on the "goal" table will give us a bit more inspiration...aha! The oracle says "spread faith."
 
-So our friend is a traveling priest of some sort.
-Consulting a couple more oracles gives us a good picture of our friend.
+{% include oracle.html
+ title="Character Role"
+ d100="29"
+ result="Traveler"
+%}
+
+I am initially inclined to interpret this as a merchant or traveling tradesman.
+However "trader" is also on the list.
+Maybe a roll on the "goal" table will give us a bit more inspiration.
+
+{% include oracle.html
+ title="Character Goal"
+ d100="60"
+ result="Spread faith"
+%}
+
+Aha! So our friend is a traveling priest of some sort.
+Consulting one more oracle will give us a clearer picture of this friend (or relative).
+
+{% include oracle.html
+ title="Character Descriptor"
+ d100="36"
+ result="Quirky"
+%}
+
 Uncle Kato is a quirky priest of Ysrena, the godess of the forge, which means he might also do a bit of tradework in his travels as well.
 He is also the reason Ida knows as much as she does about living in the wilderness, because she grew up traveling with him.
 The priest taught her to fight as well, and she and her uncle spent many evenings sparring with weighted staves after a day of riding through the wilderness.
